@@ -2,8 +2,6 @@
 	<img alt="Eightshift Frontend Libs" src="https://raw.githubusercontent.com/infinum/eightshift-frontend-libs/develop/package/logo.svg?raw=true&sanitize=true"/>
 </p>
 
-[![Travis](https://img.shields.io/travis/infinum/eightshift-storybook.svg?style=for-the-badge)](https://github.com/infinum/eightshift-storybook)
-[![npm version](https://img.shields.io/npm/v/@eightshift/frontend-libs.svg?style=for-the-badge)](https://www.npmjs.com/package/create-wp-theme)
 [![GitHub tag](https://img.shields.io/github/tag/infinum/eightshift-storybook.svg?style=for-the-badge)](https://github.com/infinum/eightshift-storybook)
 [![GitHub stars](https://img.shields.io/github/stars/infinum/eightshift-storybook.svg?style=for-the-badge&label=Stars)](https://github.com/infinum/eightshift-storybook/)
 [![license](https://img.shields.io/github/license/infinum/eightshift-storybook.svg?style=for-the-badge)](https://github.com/infinum/eightshift-storybook)
@@ -15,9 +13,13 @@ A collection of all WordPress core packages used to run Block Editor in storyboo
 ## Documentation
 **For the full documentation please check this [link](https://infinum.github.io/eightshift-docs).**
 
+## Who do I talk to?
+
+If you have any questions or problems, please [open an issue](https://github.com/infinum/eightshift-storybook/issues) on github and we will do our best to give you a timely answer.
+
 ## Maintainers
 Eightshift Storybook is maintained and sponsored by
 [Eightshift](https://eightshift.com) and [Infinum](https://infinum.com).
 
 ## License
-Eightshift Storybook is Copyright &copy;2021 Eightshift. It is free software, and may be redistributed under the terms specified in the LICENSE file.
+Eightshift Storybook &copy;2021 [Eightshift](https://eightshift.com) and [Infinum](https://infinum.com). It is free software, and may be redistributed under the terms specified in the LICENSE file.
