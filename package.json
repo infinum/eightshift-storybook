@@ -21,6 +21,8 @@
 	"homepage": "https://github.com/infinum/eightshift-storybook#readme",
 	"license": "MIT",
 	"dependencies": {
+		"@emotion/babel-preset-css-prop": "^11.0.0",
+		"@emotion/react": "^11.1.4",
 		"@storybook/addon-a11y": "^6.1.11",
 		"@storybook/addon-docs": "^6.1.11",
 		"@storybook/addon-essentials": "^6.1.11",
