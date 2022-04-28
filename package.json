@@ -24,7 +24,6 @@
 		"@emotion/babel-preset-css-prop": "^11.0.0",
 		"@emotion/react": "^11.1.4",
 		"@storybook/addon-a11y": "^6.4.22",
-		"@storybook/addon-controls": "^6.4.22",
 		"@storybook/addon-essentials": "^6.4.22",
 		"@storybook/addons": "^6.4.22",
 		"@storybook/builder-webpack5": "^6.4.19",
