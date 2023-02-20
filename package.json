@@ -1,6 +1,6 @@
 {
 	"name": "@eightshift/storybook",
-	"version": "1.4.1",
+	"version": "1.5.0",
 	"description": "A collection of all WordPress core packages used to run Block Editor in storybook.",
 	"author": {
 		"name": "Eightshift team",
