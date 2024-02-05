@@ -23,6 +23,7 @@
 	"dependencies": {
 		"@storybook/addon-a11y": "^7.6.12",
 		"@storybook/addon-essentials": "^7.6.12",
+		"@storybook/addon-docs": "^7.6.12",
 		"@storybook/react-webpack5": "^7.6.12",
 		"@storybook/storybook-deployer": "^2.8.16",
 		"@wordpress/a11y": "^3.50.0",
